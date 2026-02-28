@@ -1,6 +1,7 @@
 # Olist's ECommerce: Probabilistic Customer Lifetime Value and Customer Segmentation
 
-*(Author)*: Barış Eren Şahin
+**Author:** Barış Eren Şahin
+
 **Dataset:** https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
 
 ## *Aha!* Moment — Moving Away From Churn
